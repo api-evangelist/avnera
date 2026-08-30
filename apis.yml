@@ -54,6 +54,11 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/skyworks-solutions/
+  name: Skyworks Solutions
+  x-relationship: acquired
+  x-evidence: "Backed by venture investors including Redpoint Ventures, Avnera was acquired by Skyworks Solutions in 2017 and now operates as part of Skyworks."
 - type: DomainSecurity
   url: security/avnera-domain-security.yml
 - type: Website
